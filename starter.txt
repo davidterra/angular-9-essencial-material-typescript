@@ -1,0 +1,41 @@
+https://www.udemy.com/course/angular-9-essencial/
+https://www.flaticon.com/br/icone-gratis/ficar-em-casa_2813094
+
+npm init -y
+
+npm i json-server
+
+npm i -g @angular/cli
+
+npm start
+
+ng new frontend --minimal
+
+
+Set-ExecutionPolicy RemoteSigned
+
+ng add @angular/material
+
+ng generate component
+ng g c components/template/header
+ng g c components/template/footer
+ng g c components/template/nav
+ng g c views/home
+ng g c views/product-crud
+ng g c views/product-c
+
+ng g d directives/red
+
+ng g s components/product/product
+ng g c components/product/product-read
+
+https://material.angular.io/guide/schematics
+ng generate @angular/material:table <component-name>
+
+ng g c components/product/product-update
+
+npm i ng2-currency-mask
+
+ng g c components/product/product-delete
+
+ng g s components/template/header/header
